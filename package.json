@@ -1,0 +1,19 @@
+{
+  "name": "roulette-pro",
+  "version": "0.0.1",
+  "description": "Roulette PRO",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvanAdmaers/roulette-pro"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "roulette",
+    "roulette",
+    "pro"
+  ],
+  "author": "Ivan Admaers",
+  "license": "MIT"
+}
